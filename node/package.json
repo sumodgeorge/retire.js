@@ -15,7 +15,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "commander": "2.5.x",
-    "proxy-agent": "^5.0.0",
+    "proxy-agent": "^6.3.0",
     "read-installed": "^4.0.3",
     "walkdir": "0.4.1"
   },
